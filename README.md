@@ -1,4 +1,4 @@
-# deep-learning
+# Deep Learning
 Artificial intelligence - "deep learning" algorithm and practice
 
 ## 前言
